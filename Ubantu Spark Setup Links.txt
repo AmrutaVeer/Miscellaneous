@@ -1,0 +1,20 @@
+1. Install VMWare WorkStation Player 
+https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html
+ 
+2. Download ubantu disk image- ubuntu-20.04.2.0-desktop-amd64
+https://ubuntu.com/download/desktop
+
+3. Create new virtual machine - takes 30 min
+   
+4. Install Java 1.8 and Hadoop on Ubantu
+
+https://codewitharjun.medium.com/install-hadoop-on-ubuntu-operating-system-6e0ca4ef9689
+
+5. Install Scala,sbt,spark in Ubantu
+Online Learning Centre Video
+
+https://www.youtube.com/watch?v=UElkPOwhTtA
+
+6. Install intelliJ in Ubantu
+
+https://computingforgeeks.com/install-intellij-idea-on-ubuntu-linux/
